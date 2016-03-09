@@ -10,6 +10,7 @@
 * fastcapture
 * wiz
 * Unlocker
+
 # emacs
 * org
 * evil
@@ -21,12 +22,14 @@
 * Helm
 * switch-window
 * mpg123
+
 # vim
 * ctrlp
 * tagbar
 * VimIM
 * vim-airline
 * vimwiki
+
 # firefox
 * vimperator
 * pentadactyl
